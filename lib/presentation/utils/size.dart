@@ -1,0 +1,34 @@
+class Spacing {
+  Spacing._();
+  static double sizeNone = 0.0;
+  static double size_01 = 5.0;
+  static double size_02 = 10.0;
+  static double size_03 = 15.0;
+  static double size_04 = 20.0;
+  static double size_05 = 25.0;
+  static double size_06 = 30.0;
+  static double size_07 = 35.0;
+  static double size_08 = 40.0;
+  static double size_09 = 45.0;
+  static double size_10 = 50.0;
+  static double size_11 = 55.0;
+  static double size_12 = 60.0;
+  static double size_13 = 65.0;
+  static double size_14 = 70.0;
+  static double size_15 = 75.0;
+  static double size_16 = 80.0;
+  static double size_17 = 85.0;
+  static double size_18 = 90.0;
+  static double size_19 = 95.0;
+  static double size_20 = 100.0;
+  static double size_21 = 105.0;
+  static double size_22 = 110.0;
+  static double size_23 = 115.0;
+  static double size_24 = 120.0;
+  static double size_25 = 125.0;
+  static double size_26 = 130.0;
+  static double size_27 = 135.0;
+  static double size_28 = 140.0;
+  static double size_29 = 145.0;
+  static double size_30 = 150.0;
+}
